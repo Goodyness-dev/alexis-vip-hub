@@ -1,0 +1,12 @@
+{
+  "name": "alexis-vip-hub",
+  "version": "1.0.0",
+  "description": "Exclusive Creator & VIP Hub for Alexis",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["creator", "linktree", "vip-hub", "portfolio"],
+  "author": "Alexis",
+  "license": "ISC"
+}
